@@ -4,7 +4,6 @@
 </h1>
 
 
-My Email: youshaoduo@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=paradiseduo&count_private=true&show_icons=true)
 
