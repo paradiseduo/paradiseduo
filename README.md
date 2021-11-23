@@ -5,10 +5,8 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=paradiseduo&count_private=true&show_icons=true)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paradiseduo)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=paradiseduo&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="paradiseduo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradiseduo&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 <table>
