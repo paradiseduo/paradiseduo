@@ -11,3 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paradiseduo)
 
 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/paradiseduo/count.svg" alt="" /></td>
+  </tr>
+</table>
